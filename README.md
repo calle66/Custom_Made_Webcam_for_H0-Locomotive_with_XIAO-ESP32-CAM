@@ -1,8 +1,12 @@
 The program uses a XIAO ESP32S3 chip to control a camera inside a model train locomotive and provides a "driver's perspective" using simple means via WLAN streaming to a browser.
 The Arduino IDE example program "CameraWebserver" was used as the basis and adapted for the CAMERA_MODEL_XIAO_ESP32S3 with the OV2640 hardware.
 
+![grafik](https://github.com/user-attachments/assets/ea44c011-0c8e-4dc5-b395-ff33295a599d)
+
 The module is powered on via an SMD relay controlled by an ESU Lokpilot 5 and runs continuously without automatic shutdown.
 Once activated, the address (e.g. http://192.169.10.20) can be displayed using a serial monitor (requires a connection via the USB-C interface) or obtained through the router used.
+
+![grafik](https://github.com/user-attachments/assets/0086866f-3aae-4d6c-b335-5c60a77eda08)
 
 The operational status is indicated by a red interior LED that lights up for 30 seconds, providing information about the connection of the slider contact.
 The LED blinking indicates the charging status of an optional LiPo battery connected to the chip board.
