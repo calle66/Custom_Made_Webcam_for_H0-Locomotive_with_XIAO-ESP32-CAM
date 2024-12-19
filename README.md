@@ -39,3 +39,5 @@ To flash the ESP32: Compile and upload the program.
 ESP32Cam-Flashen: https://wiki.seeedstudio.com/xiao_esp32s3_camera_usage/
 
 Pins: https://wiki.seeedstudio.com/xiao_esp32s3_pin_multiplexing/
+
+Here’s how it works: You can watch it here: https://www.youtube.com/watch?v=oGMQHV2rfZA
