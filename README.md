@@ -59,7 +59,7 @@ Orderlist (Devices): https://www.reichelt.de/my/2214141
 				
 Orderlist (DC-Stepdown-converter): https://eckstein-shop.de/Projekt?wlid=6768dbc1075dd5.54857069&jtl=w				
 				
-Orderlist (ESU Decoder): https://www.behr-mobile.eu/modellbahn-und-zubehoer/esu/loksound				
+Orderlist (ESU Decoder): https://www.behr-mobile.eu/esu-58410-loksound-5-dccmmsxm4.html			
 				
 Orderlist (H0 Locomotive): https://www.ebay.de/itm/305974326571
 
