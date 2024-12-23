@@ -50,3 +50,17 @@ ESP32Cam-Flashen: https://wiki.seeedstudio.com/xiao_esp32s3_camera_usage/
 Pins: https://wiki.seeedstudio.com/xiao_esp32s3_pin_multiplexing/
 
 Here’s how it works: You can watch it here: https://www.youtube.com/watch?v=oGMQHV2rfZA
+
+
+
+H A R D W A R E:
+
+Orderlist (Devices): https://www.reichelt.de/my/2214141				
+				
+Orderlist (DC-Stepdown-converter): https://eckstein-shop.de/Projekt?wlid=6768dbc1075dd5.54857069&jtl=w				
+				
+Orderlist (ESU Decoder): https://www.behr-mobile.eu/modellbahn-und-zubehoer/esu/loksound				
+				
+Orderlist (H0 Locomotive): https://www.ebay.de/itm/305974326571
+
+![grafik](https://github.com/user-attachments/assets/5c57e13a-2926-4731-9b93-06eaaff375c0)
