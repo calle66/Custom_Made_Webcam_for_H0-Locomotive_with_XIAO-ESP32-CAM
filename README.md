@@ -69,6 +69,10 @@ Circuit diagram:
 
 ![grafik](https://github.com/user-attachments/assets/4cf01036-653d-43a3-b1bd-57ffb624fd43)
 
+Pins Decoder:
+
+![grafik](https://github.com/user-attachments/assets/26362463-b7e2-406f-9144-3efffc761e92)
+
 Detail Cap:
 
 ![grafik](https://github.com/user-attachments/assets/3e00e87b-1905-4e32-a280-45e8636cd748)
