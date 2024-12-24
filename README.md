@@ -63,4 +63,21 @@ Orderlist (ESU Decoder): https://www.behr-mobile.eu/esu-58410-loksound-5-dccmmsx
 				
 Orderlist (H0 Locomotive): https://www.ebay.de/itm/305974326571
 
-![grafik](https://github.com/user-attachments/assets/5c57e13a-2926-4731-9b93-06eaaff375c0)
+![grafik](https://github.com/user-attachments/assets/0433439c-28e4-4b95-9080-3f1522fd3b61)
+
+Circuit diagram:
+
+![grafik](https://github.com/user-attachments/assets/4cf01036-653d-43a3-b1bd-57ffb624fd43)
+
+Detail Cap:
+
+![grafik](https://github.com/user-attachments/assets/3e00e87b-1905-4e32-a280-45e8636cd748)
+
+Detail Decoder:
+
+![grafik](https://github.com/user-attachments/assets/4e73d8ae-b6c9-4ac4-ad9d-3b06c31d133d)
+
+
+
+
+
