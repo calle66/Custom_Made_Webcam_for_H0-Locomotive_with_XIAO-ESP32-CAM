@@ -73,13 +73,18 @@ Pins Decoder:
 
 ![grafik](https://github.com/user-attachments/assets/26362463-b7e2-406f-9144-3efffc761e92)
 
+Detail Decoder:
+
+![grafik](https://github.com/user-attachments/assets/4e73d8ae-b6c9-4ac4-ad9d-3b06c31d133d)
+
 Detail Cap:
 
 ![grafik](https://github.com/user-attachments/assets/3e00e87b-1905-4e32-a280-45e8636cd748)
 
-Detail Decoder:
+Detail ESP32 Cap Connector:
 
-![grafik](https://github.com/user-attachments/assets/4e73d8ae-b6c9-4ac4-ad9d-3b06c31d133d)
+![grafik](https://github.com/user-attachments/assets/01e1c604-c471-4d8f-82bc-06aeb8f4bb53)
+
 
 
 
